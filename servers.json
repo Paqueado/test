@@ -1,0 +1,10 @@
+{
+    "servers":{
+      "Ghostly Network":{
+        "address":"ghostly.live"
+      },	
+      "Lunar Network":{	
+        "address":"lunar.gg"
+      }
+    }
+}

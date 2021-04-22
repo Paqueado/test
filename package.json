@@ -1,0 +1,18 @@
+{
+  "name": "cb-cosmetics-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ItsVops",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "description": "<!-- PROJECT LOGO --> <br /> <p align=\"center\">   <a href=\"https://github.com/ItsVops/CB-Cosmetics-API\">     <img src=\"https://pbs.twimg.com/profile_images/972258553577725952/Kri-CZdW_400x400.jpg\" alt=\"Logo\" width=\"150\" height=\"150\">   </a>",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

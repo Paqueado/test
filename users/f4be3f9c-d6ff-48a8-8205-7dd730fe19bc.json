@@ -1,0 +1,40 @@
+{
+  "uuid": "f4be3f9c-d6ff-48a8-8205-7dd730fe19bc",
+  "cosmetics": {
+    "ghostlystaffblack": {
+      "active": false,
+      "name": "ghostlystaffblack",
+      "resourceLocation": "ghostlystaffblack",
+      "scale": 0.16,
+      "type": "cape"
+    },
+    "ghostlystaffwhite": {
+      "active": false,
+      "name": "ghostlystaffwhite",
+      "resourceLocation": "ghostlystaffwhite",
+      "scale": 0.16,
+      "type": "cape"
+    },
+    "chile": {
+      "active": false,
+      "name": "chile",
+      "resourceLocation": "chile",
+      "scale": 0.16,
+      "type": "cape"
+    },
+    "zkevshdragoncloak": {
+      "active": false,
+      "name": "zkevshdragoncloak",
+      "resourceLocation": "zkevshdragoncloak",
+      "scale": 0.16,
+      "type": "cape"
+    },
+    "black": {
+      "active": false,
+      "name": "black",
+      "resourceLocation": "black",
+      "scale": 0.14,
+      "type": "dragon_wings"
+    }
+  }
+}

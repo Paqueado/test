@@ -1,0 +1,19 @@
+{
+  "uuid": "0ccb40c5-5d8b-4e2d-b764-137a81b08db5",
+  "cosmetics": {
+    "chile": {
+      "active": false,
+      "name": "chile",
+      "resourceLocation": "chile",
+      "scale": 0.16,
+      "type": "cape"
+    },
+    "black": {
+      "active": false,
+      "name": "black",
+      "resourceLocation": "black",
+      "scale": 0.14,
+      "type": "dragon_wings"
+    }
+  }
+}
